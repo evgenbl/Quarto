@@ -1,0 +1,32 @@
+---
+title: "Dasha"
+title-slide-attributes:
+    #data-background-image: kde5.jpg
+    #data-background-video="video.mp4" background-video-loop="true" background-video-muted="false"
+    data-background-color: '#f5f0d5'
+    data-background-size: cover
+    data-background-opacity: "0.5"
+format:
+  revealjs: 
+    smaller: true
+    slide-number: true
+    chalkboard: 
+      buttons: false
+    preview-links: auto
+    css: styles.css
+    footer: <https://quarto.org>
+---
+
+## get foto {background-color="black"}
+
+::: columns
+::: {.column width="50%"}
+2023г.20 июня.
+![](20230620.jpg)
+:::
+
+::: {.column width="50%"}
+Right column
+![](cat.jpg)
+:::
+:::
